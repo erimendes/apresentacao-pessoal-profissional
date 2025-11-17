@@ -1,13 +1,13 @@
-# 👤 Apresentação Profissional — *[Seu Nome Completo]*
+# 👤 Apresentação Profissional — *[Francisco Mendes]*
 
 Olá! Seja bem-vindo(a) ao meu perfil e portfólio digital.  
-Este README foi criado para oferecer uma visão clara, objetiva e profissional sobre minhas competências, experiências e trajetória na área de **[Sua Área de Atuação — Ex: Desenvolvimento de Software, Data Science, UX/UI Design]**.
+Este README foi criado para oferecer uma visão clara, objetiva e profissional sobre minhas competências, experiências e trajetória na área de **[Infraestrutura]**.
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou **[Seu Cargo Atual/Nível — Ex: Engenheiro de Software Sênior, Analista de Dados Pleno]** com **[X] anos de experiência** no desenvolvimento e otimização de soluções tecnológicas. Minha carreira é guiada por **[seu valor central — Ex: escalabilidade, inovação, experiência do usuário, eficiência]**, sempre buscando criar produtos que realmente façam diferença.
+Sou **[Analista de Informática]** com **1 ano de experiência** no desenvolvimento e otimização de soluções tecnológicas. Minha carreira é guiada por **[seu valor central — Ex: escalabilidade, inovação, experiência do usuário, eficiência]**, sempre buscando criar produtos que realmente façam diferença.
 
 Tenho como objetivo transformar desafios complexos em soluções robustas, escaláveis e de fácil manutenção.
 
@@ -19,47 +19,36 @@ Tenho como objetivo transformar desafios complexos em soluções robustas, escal
 
 | Categoria                | Habilidades & Ferramentas |
 |-------------------------|----------------------------|
-| **Linguagens Core**     | Ex: Python, JavaScript/TypeScript, Go, Java |
-| **Front-end**           | Ex: React, Vue.js, Angular, HTML5, CSS3, SASS |
-| **Back-end & Frameworks** | Ex: Node.js (Express/Nest), Spring Boot, Django, .NET |
-| **Bancos de Dados**     | Ex: PostgreSQL, MySQL, MongoDB, Redis |
-| **Cloud & DevOps**      | Ex: AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform |
+| **Linguagens Core**     | Ex: Python, JavaScript/TypeScript |
+| **Front-end**           | Ex: React, HTML5, CSS3, SASS |
+| **Back-end & Frameworks** | Ex: Node.js (Express/Nest), Spring Boot, Django |
+| **Bancos de Dados**     | Ex: PostgreSQL, MySQL, MongoDB, SQLite |
+| **Cloud & DevOps**      | Ex: Docker, Kubernetes |
 | **Metodologias**        | Ex: Scrum, Kanban, TDD, CI/CD |
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **[Empresa Atual]** • *[Seu Cargo]*  
-**[Ano de Início] – Atual**
-
-- **Contribuição Principal:** [Ex: Liderança técnica na migração de um monolito para microsserviços com Kubernetes.]  
-- **Resultados Obtidos:** [Use métricas. Ex: Redução de 30% no tempo de resposta da API e aumento de 15% na satisfação do cliente.]
+### **SPTrans** • *Analista*  
+**[2024] – Atual**
 
 ---
 
-### **[Empresa Anterior]** • *[Seu Cargo]*  
-**[Ano de Início] – [Ano de Fim]**
-
-- [Descreva uma conquista relevante relacionada às tecnologias e desafios do cargo.]
+### **[UFABC]** • *[Tecnico em informatica]*  
+**[05/2024] – [08/2024]**
 
 ---
 
 ## 📚 Projetos em Destaque
 
-### **[Projeto 1]**
-**Descrição:** [Ex: Dashboard de análise de dados desenvolvido em React e Python.]  
-**Tecnologias:** [Liste aqui]  
-**Demonstra:** [Ex: construção de pipelines ETL, visualização de dados com D3.js.]  
-🔗 **Link:** [URL do Projeto/Repositório]
+### **[[Projeto 1]](https://github.com/erimendes/gerando-codigos-com-ia)**
+
 
 ---
 
-### **[Projeto 2]**
-**Descrição:** [Ex: API RESTful para gestão de estoque com Node.js.]  
-**Tecnologias:** [Liste aqui]  
-**Demonstra:** [Ex: autenticação JWT, arquitetura limpa, testes automatizados.]  
-🔗 **Link:** [URL do Projeto/Repositório]
+### **[[Projeto 2]](https://github.com/erimendes/dio-desafio-banco-fastapi)**
+
 
 ---
 
@@ -69,9 +58,8 @@ Tenho interesse em oportunidades relacionadas a **[áreas de interesse — Ex: e
 
 | Canal | Contato |
 |-------|---------|
-| **E-mail** | [Seu Email] |
-| **LinkedIn** | [Link do seu LinkedIn] |
-| **Portfólio/Site** | [Seu Site Pessoal] (opcional) |
+| **E-mail** | eri.mendes32@gmail.com |
+| **LinkedIn** | https://www.linkedin.com/in/franciscorabelo/ |
 
 ---
 
